@@ -1,5 +1,5 @@
 # User-Auth
-This user-authentication example dmonstrates functionality of session-based authentication in a web browser.  It uses cookies stored in a web browser to verify identity as opposed to web tokens.  Logins are stored in an SQL db (Postgres) and hashed to protect credentials.
+This user-authentication example demonstrates functionality of session-based authentication in a web browser.  It uses cookies stored in a web browser to verify identity as opposed to web tokens.  Logins are stored in an SQL db (Postgres) and hashed to protect credentials.
 
 ## Technologies used:
 * Node/Express
