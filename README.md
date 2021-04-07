@@ -14,9 +14,9 @@ This user-authentication example demonstrates functionality of session-based aut
 * Morgan
 
 ## Running 
-* create database using psql
-* npm install
-* node server.js
+* Create a postgres database using psql and start it
+* Install any dependencies: ``npm install``
+* Start the server: ``node server.js``
 
 
 ## Visuals
